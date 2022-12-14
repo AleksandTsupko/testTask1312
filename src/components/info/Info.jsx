@@ -3,7 +3,6 @@ import '../../pages/main/Main.scss';
 
 export default function Info() {
 
-
     return (
         <div className="info">
             <div className="info__content">
